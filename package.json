@@ -1,0 +1,15 @@
+{
+  "name": "pwa-horario-app",
+  "version": "1.0.0",
+  "description": "PWA HORARIO",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Kayke Vital e Lorrana Damasceno",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
