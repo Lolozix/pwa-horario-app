@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f3f4f6;
+}
+
+.container {
+    text-align: center;
+    padding: 3rem;
+    border-radius: 20px;
+    background-color: #17b78a;
+}
+
+.title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #51eb99;
+}
+
+button {
+    width: 100%;
+    padding: 1rem;
+    margin: 0.1rem;
+    font-size: 1rem;
+    color: #ffffff;
+    background-color: #51eb99;
+    border-radius: 5px;
+}
+

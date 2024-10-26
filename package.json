@@ -4,12 +4,15 @@
   "description": "PWA HORARIO",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "serve ."
-  },
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "serve": "serve .",
+  "dev": "serve ."
+},
+
   "author": "Kayke Vital e Lorrana Damasceno",
   "license": "ISC",
   "dependencies": {
-    "serve": "^14.2.4"
+    "serve": "^14.2.4",
+    "server": "^0.0.3"
   }
 }
