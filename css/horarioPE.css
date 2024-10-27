@@ -49,3 +49,7 @@ h4 {
     background-color: #084b2a;
     color: white;
 }
+
+li{
+    list-style-type: none;
+}
