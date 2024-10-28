@@ -50,3 +50,16 @@ h4 {
     background-color: #084b2a;
     color: white;
 }
+
+button {
+    background-color: #2d9868;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    border-radius: 100px;
+}
+
+button:hover {
+    background-color: #08b96c;
+    transform: scale(1.05);
+}

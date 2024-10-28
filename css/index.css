@@ -21,12 +21,14 @@ body, html {
 }
 
 button {
-    width: 100%;
-    padding: 1rem;
-    margin: 0.1rem;
-    font-size: 1rem;
-    color: #ffffff;
-    background-color: #51eb99;
-    border-radius: 5px;
+    background-color: #2d9868;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    border-radius: 100px;
 }
 
+button:hover {
+    background-color: #08b96c;
+    transform: scale(1.05);
+}

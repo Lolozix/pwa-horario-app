@@ -57,3 +57,16 @@ li{
 h4{
     text-align: center;
 }
+
+button {
+    background-color: #2d9868;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    border-radius: 100px;
+}
+
+button:hover {
+    background-color: #08b96c;
+    transform: scale(1.05);
+}
